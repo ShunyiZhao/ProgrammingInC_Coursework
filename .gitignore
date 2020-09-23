@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+LabTest/part1
+LabTest/part2
+LabTest/part3
